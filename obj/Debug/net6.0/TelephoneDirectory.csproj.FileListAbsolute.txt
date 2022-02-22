@@ -1,0 +1,15 @@
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.exe
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.deps.json
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.runtimeconfig.json
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\bin\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\obj\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\jmbarraganm\Desktop\Siesa\.Net\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.genruntimeconfig.cache
